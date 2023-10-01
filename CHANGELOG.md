@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/uzenith360/ngx-error-pages/compare/v1.1.0...v1.1.1) (2023-10-01)
+
+
+### Bug Fixes
+
+* upgrade to angular 16 ([7a5b3a8](https://github.com/uzenith360/ngx-error-pages/commit/7a5b3a836066b0392bf311e8ebde1a7552b0fd36))
+
 # [1.1.0](https://github.com/uzenith360/ngx-error-pages/compare/v1.0.1...v1.1.0) (2023-10-01)
 
 
