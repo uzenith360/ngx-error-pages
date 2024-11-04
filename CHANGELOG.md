@@ -1,3 +1,10 @@
+## [1.3.1](https://github.com/uzenith360/ngx-error-pages/compare/v1.3.0...v1.3.1) (2024-11-04)
+
+
+### Bug Fixes
+
+* upgrade angular core to 18 ([eef1a1b](https://github.com/uzenith360/ngx-error-pages/commit/eef1a1bbfb0538333aa59bd70ce6e0c21eb600ed))
+
 # [1.3.0](https://github.com/uzenith360/ngx-error-pages/compare/v1.2.0...v1.3.0) (2024-11-03)
 
 
