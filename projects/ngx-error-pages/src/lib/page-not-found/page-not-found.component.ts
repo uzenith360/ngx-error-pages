@@ -4,9 +4,10 @@ import EnvironmentConfigService from '../environment-config.service';
 import { ErrorPageData } from '../error-page-data.interface';
 
 @Component({
-  selector: 'app-page-not-found',
-  templateUrl: './page-not-found.component.html',
-  styleUrls: ['./page-not-found.component.css']
+    selector: 'app-page-not-found',
+    templateUrl: './page-not-found.component.html',
+    styleUrls: ['./page-not-found.component.css'],
+    standalone: false
 })
 export class PageNotFoundComponent implements OnInit {
   public pageData!: ErrorPageData;
