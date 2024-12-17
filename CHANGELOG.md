@@ -1,3 +1,11 @@
+## [1.3.2](https://github.com/uzenith360/ngx-error-pages/compare/v1.3.1...v1.3.2) (2024-12-17)
+
+
+### Bug Fixes
+
+* upgrade to angular 19 ([c291ea4](https://github.com/uzenith360/ngx-error-pages/commit/c291ea49c178d1a5b77709230b620658747c736e))
+* upgrade to angular 19 ([bc8bace](https://github.com/uzenith360/ngx-error-pages/commit/bc8bace24106b329ad8668eef4785721a0bd1480))
+
 ## [1.3.1](https://github.com/uzenith360/ngx-error-pages/compare/v1.3.0...v1.3.1) (2024-11-04)
 
 
