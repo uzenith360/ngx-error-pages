@@ -10,13 +10,12 @@ describe('PageErrorComponent', () => {
 
   beforeEach(async () => {
     await TestBed.configureTestingModule({
-      declarations: [PageErrorComponent],
-      imports: [RouterModule],
-      providers: [
+    imports: [RouterModule, PageErrorComponent],
+    providers: [
         { provide: ActivatedRoute, useValue: {} },
         { provide: EnvironmentConfigService, useValue: {} }
-      ]
-    })
+    ]
+})
       .compileComponents();
   });
 

@@ -6,17 +6,15 @@ import { PageErrorComponent } from './page-error/page-error.component';
 import { PageNotFoundComponent } from './page-not-found/page-not-found.component';
 
 @NgModule({
-  declarations: [
-    PageErrorComponent,
-    PageNotFoundComponent,
-  ],
-  imports: [
-    RouterModule
-  ],
-  exports: [
-    PageErrorComponent,
-    PageNotFoundComponent,
-  ]
+    imports: [
+        RouterModule,
+        PageErrorComponent,
+        PageNotFoundComponent
+    ],
+    exports: [
+        PageErrorComponent,
+        PageNotFoundComponent,
+    ]
 })
 
 export class NgxErrorPagesModule {
