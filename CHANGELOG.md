@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/uzenith360/ngx-error-pages/compare/v1.3.2...v1.4.0) (2025-03-21)
+
+
+### Features
+
+* migrate to standalone components ([558de14](https://github.com/uzenith360/ngx-error-pages/commit/558de1410a123269e60239be62d4d94f370725ed))
+
 ## [1.3.2](https://github.com/uzenith360/ngx-error-pages/compare/v1.3.1...v1.3.2) (2024-12-17)
 
 
