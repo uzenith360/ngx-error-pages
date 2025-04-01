@@ -1,3 +1,10 @@
+## [1.4.1](https://github.com/uzenith360/ngx-error-pages/compare/v1.4.0...v1.4.1) (2025-04-01)
+
+
+### Bug Fixes
+
+* upgrade angular and run migrations ([1ab3a61](https://github.com/uzenith360/ngx-error-pages/commit/1ab3a611769b4965fa11baa9affbab191d36f466))
+
 # [1.4.0](https://github.com/uzenith360/ngx-error-pages/compare/v1.3.2...v1.4.0) (2025-03-21)
 
 
