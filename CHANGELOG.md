@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/uzenith360/ngx-error-pages/compare/v1.4.1...v1.5.0) (2025-09-16)
+
+
+### Features
+
+* upgrade to angular 20 ([9cd1b75](https://github.com/uzenith360/ngx-error-pages/commit/9cd1b7550a6ff116a85742e8ebd4df543cfa701b))
+
 ## [1.4.1](https://github.com/uzenith360/ngx-error-pages/compare/v1.4.0...v1.4.1) (2025-04-01)
 
 
